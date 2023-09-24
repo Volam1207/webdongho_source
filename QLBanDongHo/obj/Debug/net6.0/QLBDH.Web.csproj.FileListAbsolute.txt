@@ -1,0 +1,307 @@
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\appsettings.json
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.exe
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.deps.json
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.runtimeconfig.json
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Humanizer.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.AssemblyReference.cache
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfoInputs.cache
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfo.cs
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CoreCompileInputs.cache
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.QLBDH.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.build.QLBDH.Web.props
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLBDH.Web.props
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLBDH.Web.props
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\scopedcss\bundle\QLBDH.Web.styles.css
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CopyComplete
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\refint\QLBDH.Web.dll
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.pdb
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.genruntimeconfig.cache
+D:\Personal\QLBanDongHo\QLBanDongHo\obj\Debug\net6.0\ref\QLBDH.Web.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.Development.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.exe
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.deps.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.runtimeconfig.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Humanizer.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.AssemblyReference.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfoInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfo.cs
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CoreCompileInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.QLBDH.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.build.QLBDH.Web.props
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLBDH.Web.props
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLBDH.Web.props
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\scopedcss\bundle\QLBDH.Web.styles.css
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CopyComplete
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\refint\QLBDH.Web.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.genruntimeconfig.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\ref\QLBDH.Web.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.Development.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.exe
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.deps.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.runtimeconfig.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Humanizer.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.AssemblyReference.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfoInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfo.cs
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CoreCompileInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.build.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.development.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\scopedcss\bundle\QLBDH.Web.styles.css
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CopyComplete
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\refint\QLBDH.Web.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.genruntimeconfig.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\ref\QLBDH.Web.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\NET Project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.QLBDH.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NET Project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.build.QLBDH.Web.props
+D:\NET Project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLBDH.Web.props
+D:\NET Project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLBDH.Web.props
+D:\NET Project\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.exe
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.deps.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.runtimeconfig.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Web.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.BLL.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.AssemblyReference.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfoInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.AssemblyInfo.cs
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CoreCompileInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.QLBDH.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.build.QLBDH.Web.props
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLBDH.Web.props
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLBDH.Web.props
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\scopedcss\bundle\QLBDH.Web.styles.css
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.csproj.CopyComplete
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\refint\QLBDH.Web.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\QLBDH.Web.genruntimeconfig.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBanDongHo\obj\Debug\net6.0\ref\QLBDH.Web.dll

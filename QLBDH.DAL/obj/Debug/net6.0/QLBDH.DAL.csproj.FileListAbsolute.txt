@@ -1,0 +1,68 @@
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.deps.json
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.runtimeconfig.json
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QLBanDongHo\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.AssemblyReference.cache
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfoInputs.cache
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfo.cs
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CoreCompileInputs.cache
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CopyComplete
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\refint\QLBDH.DAL.dll
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.genruntimeconfig.cache
+D:\Personal\QLBanDongHo\QLBDH.DAL\obj\Debug\net6.0\ref\QLBDH.DAL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.deps.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.runtimeconfig.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.AssemblyReference.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfoInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfo.cs
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CoreCompileInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CopyComplete
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\refint\QLBDH.DAL.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.genruntimeconfig.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\ref\QLBDH.DAL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.deps.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.runtimeconfig.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.AssemblyReference.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfoInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfo.cs
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CoreCompileInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CopyComplete
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\refint\QLBDH.DAL.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.genruntimeconfig.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\ref\QLBDH.DAL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.deps.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.runtimeconfig.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.DAL.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.AssemblyReference.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfoInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.AssemblyInfo.cs
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CoreCompileInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.csproj.CopyComplete
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\refint\QLBDH.DAL.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\QLBDH.DAL.genruntimeconfig.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.DAL\obj\Debug\net6.0\ref\QLBDH.DAL.dll

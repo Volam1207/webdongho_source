@@ -1,0 +1,53 @@
+D:\Personal\QLBanDongHo\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.deps.json
+D:\Personal\QLBanDongHo\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QLBanDongHo\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfoInputs.cache
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfo.cs
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.CoreCompileInputs.cache
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\refint\QLBDH.Common.dll
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QLBanDongHo\QLBDH.Common\obj\Debug\net6.0\ref\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.deps.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.runtimeconfig.json
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.AssemblyReference.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfoInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfo.cs
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.CoreCompileInputs.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\refint\QLBDH.Common.dll
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.pdb
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.genruntimeconfig.cache
+D:\Personal\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\ref\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.deps.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.runtimeconfig.json
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.AssemblyReference.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfoInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfo.cs
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.CoreCompileInputs.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\refint\QLBDH.Common.dll
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.pdb
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.genruntimeconfig.cache
+D:\NET project\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\ref\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.deps.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.runtimeconfig.json
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\bin\Debug\net6.0\QLBDH.Common.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.AssemblyReference.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfoInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.AssemblyInfo.cs
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.csproj.CoreCompileInputs.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\refint\QLBDH.Common.dll
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.pdb
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\QLBDH.Common.genruntimeconfig.cache
+D:\Đồ Án\QuanLyBanDongHo_nhom4\QuanLyBanDongHo_nhom4\QLBDH.Common\obj\Debug\net6.0\ref\QLBDH.Common.dll
